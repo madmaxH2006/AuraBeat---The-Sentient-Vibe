@@ -16,7 +16,7 @@ As a Mobile App (Android/iOS)
 You'll need Node.js and the respective mobile IDE (Android Studio / Xcode).
 Generated bash
 # 1. Clone the repo and navigate into it
-git clone https://github.com/your-username/AuraBeat.git
+git clone https://github.com/madmaxH2006/AuraBeat.git
 cd AuraBeat
 
 # 2. Install dependencies
